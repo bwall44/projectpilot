@@ -23,7 +23,7 @@ const AppRoutes = () => {
                 {/* index (/) */}
                 <Route index element={<Hello />} />
                 {/* /Projects */}
-                <Route path="Projects" element={<ProjectsPage />} />
+                {/* <Route path="Projects" element={<ProjectsPage />} /> */}
                 {/* /CatView - the carousel page */}
                 <Route path="CatView" element={<CatView />} />
                 {/* /BackyardSquirrels - the carousel page */}

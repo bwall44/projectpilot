@@ -16,7 +16,7 @@ import PetsIcon from '@mui/icons-material/Pets';
 
 const navItems = [
   { label: 'Home', to: '/' },
-  { label: 'Projects', to: '/Projects' },
+  // { label: 'Projects', to: '/Projects' },
   { label: 'Cats', to: '/CatView' },
   { label: 'Squirrels', to: '/BackyardSquirrels' },
   { label: 'Cat Facts', to: '/CatFacts' },
